@@ -2,7 +2,7 @@
 
 ## About
 
-I am experienced in back-end software development. Assisted in the development of 2 new business applications. 
+I am experienced Back-end Developer. Assisted in the development of 2 new business applications. 
 And I am looking for an opportunity to continue developing and improving my career path.
 
 ---
