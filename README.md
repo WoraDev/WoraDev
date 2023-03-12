@@ -1,13 +1,13 @@
-# Worawoot Kittipoltaveesak 🌱
+# 🌱 Worawoot Kittipoltaveesak 
 
-## About
+### About
 
 I am experienced Back-end Developer. Assisted in the development of 2 new business applications. 
 And I am looking for an opportunity to continue developing and improving my career path.
 
 ---
 
-### ✨Skills and ⚒️Tools
+### ✨ Skills and ⚒️ Tools
 
 <img align="left" alt="Java" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -16,5 +16,4 @@ And I am looking for an opportunity to continue developing and improving my care
 <img align="left" alt="JavaScript" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
